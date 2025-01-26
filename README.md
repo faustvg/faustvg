@@ -20,9 +20,13 @@ I have experience working with:
 
 ## 📚 Education & Certifications
 
+- **B.S. Computer Science**  
+  Instituto Tecnologico y de Estudios Superiores de Monterrey (2021–2022)
+  
 - **B.S. Data Science**  
   Katholische Universität Eichstätt-Ingolstadt (2022–2025, Expected)
   
+## 📚 Certifications
 - **Python Specialization: Data Structures and Algorithms**  
   University of Michigan, 2024
 
