@@ -1,44 +1,64 @@
-Welcome to Faustino Vazquez Gabino's GitHub 🌟
-About Me
-Hi there! 👋 I’m an undergraduate Data Science student at Katholische Universität Eichstätt-Ingolstadt (expected graduation: 2025). Passionate about technology, mathematics, and statistics, I specialize in applying programming and analytical skills to solve real-world problems.
+# 👋 Hi there! I'm Faustino Vazquez Gabino
 
-📍 Currently based in Ingolstadt, Germany, I'm always eager to connect with like-minded professionals and collaborate on exciting projects.
+Welcome to my GitHub! I'm an undergraduate **Data Science student** passionate about **technology, mathematics, and statistics**. I enjoy tackling challenging problems and building data-driven solutions. 
 
-💼 Check out my professional profile on LinkedIn or reach out via email.
+Here, you'll find projects that showcase my skills in programming, data analysis, forecasting, and more.
 
-🔧 Programming Skills
-Languages: Python, R, C++, SQL, MATLAB
-Tools & Platforms: Jupyter Notebook, GitHub, Microsoft Office (Excel, Access, Word), Power BI
-Other Skills: Statistical analysis, machine learning, time series forecasting, and data visualization
-🌟 Key Projects
-1. Time Series Forecasting Hybrid Model
-Developed a hybrid Python-based forecasting model that combines heuristic, statistical, and neural network methods to improve predictive accuracy.
+## 🔧 Technologies & Tools
 
-2. Machine Learning Stellar Classification
-Built a Python machine learning model to classify stars by analyzing stellar attributes, enhancing insights into space research.
+I have experience working with:
 
-3. Statistical Analysis of Air Quality in Mexico
-Conducted an in-depth analysis of air quality data to forecast temperature and pollutant levels using statistical tools like Excel and Minitab.
+- **Programming Languages**: Python, R, C++, SQL, MATLAB
+- **Tools**: Jupyter Notebook, Power BI, Microsoft Office (Excel, Word, Access), Google Drive
+- **Version Control**: Git and GitHub
 
-🎓 Certifications & Training
-Python Specialization (University of Michigan, 2024)
-Data Structures and Algorithms with Python (Codecademy, 2024)
-MATLAB Onramp (2022)
-Introduction to Data Science with R (UNAM, 2022)
-🌍 Languages
-Spanish: Native
-English: C1
-German: B2
-📈 Let's Collaborate!
-I’m particularly interested in projects related to:
+## 🌟 Skills
 
-Time series forecasting
-Machine learning
-Data analysis and visualization
-Statistical modeling
-Feel free to fork my repositories or contact me directly if you have ideas for collaboration. Let’s create something impactful! 🚀
+- Analytical Thinking & Problem Solving
+- Collaboration & Communication
+- Critical Thinking & Enthusiasm for Learning
 
-📫 Contact Me
-Email: faustinovazquezgabino@gmail.com
-LinkedIn: linkedin.com/in/faustvg
-GitHub: github.com/faustvg
+## 📚 Education & Certifications
+
+- **B.S. Data Science**  
+  Katholische Universität Eichstätt-Ingolstadt (2022–2025, Expected)
+  
+- **Python Specialization: Data Structures and Algorithms**  
+  University of Michigan, 2024
+
+- **Introduction to Data Science: Statistical Programming with R**  
+  UNAM, 2022
+
+- **MATLAB Onramp Certification**  
+  MATLAB, 2022
+
+## 💻 Featured Projects
+
+### 1. **Time Series Forecasting Hybrid Model**
+   - Developed a Python model combining heuristic, statistical, and neural network methods to enhance forecasting accuracy.
+
+### 2. **Machine Learning Stellar Classification**
+   - Built a machine learning model in Python to classify stars based on various stellar attributes.
+
+### 3. **Statistical Analysis: Air Quality in Mexico**
+   - Analyzed air quality data to forecast temperature and pollutants using **Excel** and **Minitab**, applying advanced statistical techniques.
+
+## 🎓 Hackathons & Extracurricular Activities
+
+- **hackaTUM participant** – Technical University of Munich (2023)
+- **AIESEC Team Leader (iGV)** – January-July 2022
+- **Debate Tournament Participant** – Tec de Monterrey, June 2022
+
+## 🌍 Languages
+
+- Spanish (Native)
+- English (C1)
+- German (B2)
+
+## 📫 Let's Connect!
+
+- **LinkedIn**: [Faustino Vazquez Gabino](https://www.linkedin.com/in/faustvg)
+- **GitHub**: [faustvg](https://github.com/faustvg)
+- **Email**: [faustinovazquezgabino@gmail.com](mailto:faustinovazquezgabino@gmail.com)
+
+Feel free to explore my repositories and connect if you'd like to collaborate!
