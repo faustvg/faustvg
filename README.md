@@ -18,7 +18,7 @@ I have experience working with:
 - Collaboration & Communication
 - Critical Thinking & Enthusiasm for Learning
 
-## 📚 Education & Certifications
+## 📚 Education 
 
 - **B.S. Computer Science**  
   Instituto Tecnologico y de Estudios Superiores de Monterrey (2021–2022)
