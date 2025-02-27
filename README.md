@@ -8,11 +8,11 @@ Here, you'll find projects that showcase my skills in programming, data analysis
 
 I have experience working with:
 
-- **Programming Languages**:
+## **Programming Languages**:
   
---   🐍*Python*  📊*R*  💻*C++*  🗃️*SQL*
+   🐍*Python*  📊*R*  💻*C++*  🗃️*SQL*
   
-- **Tools**:
+## **Tools**:
    *Jupyter Notebook*  *Power BI*  *Microsoft Office (Excel, Word, Access)*  *Google Drive*
 
 ## 🌟 Skills
