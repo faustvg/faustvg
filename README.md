@@ -8,9 +8,10 @@ Here, you'll find projects that showcase my skills in programming, data analysis
 
 I have experience working with:
 
-- **Programming Languages**: Python, R, C++, SQL, MATLAB
-- **Tools**: Jupyter Notebook, Power BI, Microsoft Office (Excel, Word, Access), Google Drive
-- **Version Control**: Git and GitHub
+- **Programming Languages**:
+-   🐍*Python*  📊*R*  💻*C++*  🗃️*SQL*
+- **Tools**:
+-   *Jupyter Notebook*  *Power BI*  *Microsoft Office (Excel, Word, Access)*  *Google Drive*
 
 ## 🌟 Skills
 
