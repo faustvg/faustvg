@@ -9,6 +9,7 @@ Here, you'll find projects that showcase my skills in programming, data analysis
 I have experience working with:
 
 - **Programming Languages**:
+  
 --   🐍*Python*  📊*R*  💻*C++*  🗃️*SQL*
   
 - **Tools**:
