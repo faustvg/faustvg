@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Faustino Vazquez Gabino
+# Hi there! I'm Faustino Vazquez 
 
 Welcome to my GitHub! I'm an undergraduate **Data Science student** passionate about **technology, mathematics, and statistics**. I enjoy tackling challenging problems and building data-driven solutions. 
 
@@ -49,6 +49,7 @@ I have experience working with:
 
 ## 🎓 Hackathons & Extracurricular Activities
 
+- **hackaTUM participant** – Technical University of Munich (2024)
 - **hackaTUM participant** – Technical University of Munich (2023)
 - **AIESEC Team Leader (iGV)** – January-July 2022
 - **Debate Tournament Participant** – Tec de Monterrey, June 2022
@@ -64,5 +65,6 @@ I have experience working with:
 - **LinkedIn**: [Faustino Vazquez Gabino](https://www.linkedin.com/in/faustvg)
 - **GitHub**: [faustvg](https://github.com/faustvg)
 - **Email**: [faustinovazquezgabino@gmail.com](mailto:faustinovazquezgabino@gmail.com)
+- **Strava** : 
 
 Feel free to explore my repositories and connect if you'd like to collaborate!
