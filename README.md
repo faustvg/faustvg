@@ -3,7 +3,7 @@ Welcome to my GitHub! I’m a **Data Science undergrad** hooked on **tech, math,
 
 ---
 
-## 🛠️ My Toolkit  
+## 🛠️ My Experience  
 Here’s what I use to get things done:  
 
 **Coding**:  
@@ -38,14 +38,17 @@ Here’s what I use to get things done:
 
 ---
 
-## 📜 Certifications I’ve Earned  
-- **Python Specialization: Data Structures and Algorithms** – *University of Michigan, 2024*  
+## 📜 Certifications  
+- **Microsoft Power BI Data Analyst** - *Microsoft, in process*
+- **Analyze Data with SQL** - *Codecademy, 2025* 
+- **Data Structures and Algorithms** - *Codecademy, 2024*
+- **Python Specialization** – *University of Michigan, 2024*  
 - **Intro to Data Science: Statistical Programming with R** – *UNAM, 2022*  
-- **MATLAB Onramp Certification** – *MATLAB, 2022*  
+- **MATLAB Onramp |Image Processing** – *MATLAB, 2022*  
 
 ---
 
-## 💻 Projects I’m Proud Of  
+## 💻 Projects 
 **Time Series Forecasting Hybrid Model**  
 Whipped up a Python model blending stats, heuristics, and neural networks for spot-on predictions.  
 
@@ -57,8 +60,8 @@ Dug into air quality data with *Excel* and *Minitab* to predict trends.
 
 ---
 
-## 🏆 Outside the Code  
-- **hackaTUM** – *Technical University of Munich* (2023 & 2024)  
+## 🏆 Tournaments  
+- **hackaTUM** – *Technical University of Munich* (2023 & 2024)
 - **AIESEC Team Leader (iGV)** – Jan-July 2022  
 - **Debate Tournament** – *Tec de Monterrey, June 2022*  
 
@@ -71,10 +74,10 @@ Dug into air quality data with *Excel* and *Minitab* to predict trends.
 
 ---
 
-## 📬 Say Hi!  
+## 📬 Contact!  
 - **LinkedIn**: [Faustino Vazquez Gabino](https://www.linkedin.com/in/faustvg)  
 - **GitHub**: [faustvg](https://github.com/faustvg)  
 - **Email**: [faustinovazquezgabino@gmail.com](mailto:faustinovazquezgabino@gmail.com)  
-- **Strava**: [Add your link!]  
+- **Strava**: [https://www.strava.com/athletes/142792379]  
 
 Explore my repos and let’s collab if you’re up for it!  
