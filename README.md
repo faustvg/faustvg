@@ -78,6 +78,6 @@ Dug into air quality data with *Excel* and *Minitab* to predict trends.
 - **LinkedIn**: [Faustino Vazquez Gabino](https://www.linkedin.com/in/faustvg)  
 - **GitHub**: [faustvg](https://github.com/faustvg)  
 - **Email**: [faustinovazquezgabino@gmail.com](mailto:faustinovazquezgabino@gmail.com)  
-- **Strava**: [https://www.strava.com/athletes/142792379]  
+- **Strava**: [faustvg](https://www.strava.com/athletes/142792379)  
 
 Explore my repos and let’s collab if you’re up for it!  
