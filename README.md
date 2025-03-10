@@ -1,5 +1,7 @@
 # Hey, I’m Faustino Vazquez! 👋  
-Welcome to my GitHub! I’m a **Data Science undergrad** hooked on **tech, math, and stats**. I love cracking tough problems and building stuff with data. Stick around to check out my projects—coding, forecasting, and more!
+Welcome to my GitHub! I’m a **Data Science undergrad** passionate about tech, finance,maths and statistics. What I enjoy most from data science is diving deep into analyzing data and visualizing insights—especially with historical data. I’m a big fan of using Machine Learning and Time Series to uncover patterns, fueled by my avid interest in economics, investing, and trading. I love tackling complex problems and building data-driven projects—stick around to exploit my work in coding, forecasting,...
+Beyond data, I’m a sports football, american football, and basketball are my favorites. I’m often at the gym working out, running, swimming, or enjoying long bike rides. When I’m not crunching numbers or doing exercise, you’ll find me reading, especially history book.
+
 
 ---
 
@@ -9,8 +11,8 @@ Here’s what I use to get things done:
 **Coding**:  
 - 🐍 *Python*  
 - 📊 *R*  
-- 💻 *C++*  
 - 🗃️ *SQL*  
+- 💻 *C++*  
 
 **Tools**:  
 - *Jupyter Notebook*  
@@ -20,10 +22,10 @@ Here’s what I use to get things done:
 
 ---
 
-## 🌟 What I’m Good At  
-- Solving problems with a sharp eye  
-- Working with others & sharing ideas  
-- Thinking hard & learning fast  
+## 💼 Working Experience  
+**Audi AG**  
+*Praktikum Digitalisierung Supply Chain International*  
+March 2025–  
 
 ---
 
@@ -50,14 +52,13 @@ Here’s what I use to get things done:
 
 ## 💻 Projects 
 **Time Series Forecasting Hybrid Model**  
-Whipped up a Python model blending stats, heuristics, and neural networks for spot-on predictions.  
+Use Python Time Series for blending statistical models, heuristics, and neural networks for predictions
 
 **Machine Learning Stellar Classification**  
-Coded a Python ML model to classify stars—space vibes!  
+Python Machine Learning project, use of classifications ML models for classification of Stellar Objects  
 
 **Air Quality Stats in Mexico**  
-Dug into air quality data with *Excel* and *Minitab* to predict trends.  
-
+Analyze Mexico's air quality data using Excel and Minitab for forecasting.
 ---
 
 ## 🏆 Tournaments  
@@ -70,10 +71,16 @@ Dug into air quality data with *Excel* and *Minitab* to predict trends.
 ## 🌍 Languages  
 - **Spanish**: Native  
 - **English**: C1 (Fluent)  
-- **German**: B2 (Solid progress!)  
+- **German**: C1  in progress!
 
 ---
 
+## 🌟 What I’m Good At  
+- Solving problems with a sharp eye  
+- Working with others & sharing ideas  
+- Thinking hard & learning fast  
+
+---
 ## 📬 Contact!  
 - **LinkedIn**: [Faustino Vazquez Gabino](https://www.linkedin.com/in/faustvg)  
 - **GitHub**: [faustvg](https://github.com/faustvg)  
