@@ -7,7 +7,7 @@ Beyond data, I’m a sports enthusiast, football, american football, and basketb
 
 ---
 
-## 🛠️ My Experience  
+## 🛠️ My Coding Experience  
 Here’s what I use to get things done:  
 
 **Coding**:  
@@ -43,24 +43,26 @@ March 2025–
 ---
 
 ## 📜 Certifications  
-- **Microsoft Power BI Data Analyst** - *Microsoft, in process*
-- **Analyze Data with SQL** - *Codecademy, 2025* 
-- **Data Structures and Algorithms** - *Codecademy, 2024*
-- **Python Specialization** – *University of Michigan, 2024*  
-- **Intro to Data Science: Statistical Programming with R** – *UNAM, 2022*  
-- **MATLAB Onramp |Image Processing** – *MATLAB, 2022*  
+- **[Microsoft Power BI Data Analyst](URL_de_tu_certificado)** - *Microsoft, in process*
+- **[Analyze Data with SQL](https://www.codecademy.com/profiles/faustvg/certificates/5cafb2d937090210d7df3652)** - *Codecademy, 2025*
+- **[Data Structures and Algorithms](https://www.codecademy.com/profiles/faustvg/certificates/7a1021b263de1990c643feb15d9f1f7a)** - *Codecademy, 2024*
+- **[Python Specialization](https://www.coursera.org/account/accomplishments/specialization/TDPT3E792V6H)** – *University of Michigan, 2024*
+- **[Intro to Data Science: Statistical Programming with R](https://www.coursera.org/account/accomplishments/certificate/A6DVKHJ75G2E)** – *UNAM, 2022*
+- **[MATLAB Onramp |Image Processing](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=7c5b80d9-39a3-42a6-b0b1-4dae912343e8&)** – *MATLAB, 2022*
+
 
 ---
 
 ## 💻 Projects 
 **Time Series Forecasting Hybrid Model**  
-Use Python Time Series for blending statistical models, heuristics, and neural networks for predictions
+Python Time Series for blending statistical models, heuristics, and neural networks for predictions
 
 **Machine Learning Stellar Classification**  
 Python Machine Learning project, use of classifications ML models for classification of Stellar Objects  
 
 **Air Quality Stats in Mexico**  
 Analyze Mexico's air quality data using Excel and Minitab for forecasting.
+
 ---
 
 ## 🏆 Tournaments  
@@ -73,7 +75,7 @@ Analyze Mexico's air quality data using Excel and Minitab for forecasting.
 ## 🌍 Languages  
 - **Spanish**: Native  
 - **English**: C1 (Fluent)  
-- **German**: C1  in progress!
+- **German**: C1 (in progress!) (B2 Certificated!)
 
 ---
 
@@ -89,4 +91,4 @@ Analyze Mexico's air quality data using Excel and Minitab for forecasting.
 - **Email**: [faustinovazquezgabino@gmail.com](mailto:faustinovazquezgabino@gmail.com)  
 - **Strava**: [faustvg](https://www.strava.com/athletes/142792379)  
 
-Explore my repos and let’s collab if you’re up for it!  
+Explore my repos and let’s collab if you’re up for it, contact me for any question :)  
