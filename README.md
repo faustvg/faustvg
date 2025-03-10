@@ -32,11 +32,11 @@ March 2025–
 ---
 
 ## 🎓 Education  
-**B.S. Data Science**  
+- **[B.Sc. Data Science](https://www.ku.de/en/mgf/studiengaenge/bachelor/data-science)**  
 *Katholische Universität Eichstätt-Ingolstadt*  
 2022–2025 (Expected)  
 
-**B.S. Computer Science**  
+- **[B.S. Computer Science](https://tec.mx/en/computer-science-and-information-technologies/bs-in-computer-science-and-technology)**    
 *Instituto Tecnológico y de Estudios Superiores de Monterrey*  
 2021–2022  
 
