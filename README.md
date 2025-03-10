@@ -1,8 +1,8 @@
 # Hey, I’m Faustino, but you can call me Faust or Faus 👋  
 Welcome to my GitHub! I’m a **Data Science undergrad** passionate about tech, finance,maths and statistics. What I enjoy most from data science is diving deep into analyzing data and visualizing insights—especially with historical data. 
 
-I’m a big fan of using Machine Learning and Time Series to uncover patterns, fueled by my avid interest in economics, investing, and trading. I love tackling complex problems and building data-driven projects—stick around to exploit my work in coding, forecasting,...
-Beyond data, I’m a sports football, american football, and basketball are my favorites. I’m often at the gym working out, running, swimming, or enjoying long bike rides. When I’m not crunching numbers or doing exercise, you’ll find me reading, especially history book.
+I’m a big fan of using Machine Learning and Time Series to uncover patterns, fueled by my avid interest in economics, investing, and trading. I love tackling complex problems and building data-driven projects—stick around to exploit my work in coding and forecasting.
+Beyond data, I’m a sports enthusiast, football, american football, and basketball are my favorites. I’m often at the gym working out, running, swimming, or enjoying long bike rides. When I’m not crunching numbers or doing exercise, you’ll find me reading, especially history book.
 
 
 ---
