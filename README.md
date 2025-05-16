@@ -20,7 +20,7 @@ Here’s what I use to get things done:
 - *Power BI*
 - *Knime*
 - *Jupyter Notebook*  
-- *Excel, Word, Access*  
+- *Microsoft 365(Excel, Word, Access, Power Automate, Power Apps)*  
 - *Google Drive*  
 
 ---
