@@ -79,7 +79,7 @@ Analyze Mexico's air quality data using Excel and Minitab for forecasting.
 ## 🌍 Languages  
 - **Spanish**: Native  
 - **English**: C1 (Fluent)  
-- **German**: C1 (in progress!) (B2 Certificated!)
+- **German**: C1 (in progress) (B2 Certificated!)
 
 ---
 
