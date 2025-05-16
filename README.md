@@ -17,8 +17,9 @@ Here’s what I use to get things done:
 - 💻 *C++*  
 
 **Tools**:  
+- *Power BI*
+- *Knime*
 - *Jupyter Notebook*  
-- *Power BI*  
 - *Excel, Word, Access*  
 - *Google Drive*  
 
@@ -28,6 +29,9 @@ Here’s what I use to get things done:
 **Audi AG**  
 *Praktikum Digitalisierung Supply Chain International*  
 March 2025–  
+- Development and maintenance of Power BI dashboards for data analysis and decision support.
+- Design of data workflows using KNIME, Oracle APEX, and SQL to improve data processing.
+- Optimization of global logistics processes through Microsoft 365 Apps (Power Automate, SharePoint, Power Apps).
 
 ---
 
@@ -65,7 +69,7 @@ Analyze Mexico's air quality data using Excel and Minitab for forecasting.
 
 ---
 
-## 🏆 Tournaments  
+## 🏆 Others  
 - **hackaTUM** – *Technical University of Munich* (2023 & 2024)
 - **AIESEC Team Leader (iGV)** – Jan-July 2022  
 - **Debate Tournament** – *Tec de Monterrey, June 2022*  
