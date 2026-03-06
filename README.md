@@ -14,7 +14,7 @@ Here’s what I use to get things done:
 - 🐍 *Python*  
 - 📊 *R*  
 - 🗃️ *SQL*  
-- 💻 *C++*  
+- 💻 *C++*
 
 **Tools**:  
 - *Power BI*
@@ -28,12 +28,17 @@ Here’s what I use to get things done:
 ## 💼 Working Experience  
 **Audi AG**  
 *Praktikum Digitalisierung Supply Chain International*  
-March 2025–  
+March 2025 –  August 2025  
 - Development and maintenance of Power BI dashboards for data analysis and decision support.
 - Design of data workflows using KNIME, Oracle APEX, and SQL to improve data processing.
-- Optimization of global logistics processes through Microsoft 365 Apps (Power Automate, SharePoint, Power Apps).
+- Optimization of global logistics processes through Microsoft 365 Apps (Power Automate, Power Apps).
+
+*Bachelor Thesis - Design and Development of a database for packaging Planning*  
 
 ---
+• Designed and implemented a centralized data architecture integrating heterogeneous operational data for industrial packaging planning at Audi.
+• Built automated ETL pipelines using KNIME, Power Automate, and SQL on Oracle Database for schema harmonization, data cleaning, and data-quality constraint enforcement.
+• Developed an Oracle APEX application for process documentation, reducing manual reconciliation and enabling reliable analytics and BI reporting.
 
 ## 🎓 Education  
 - **[B.Sc. Data Science](https://www.ku.de/en/mgf/studiengaenge/bachelor/data-science)**  
