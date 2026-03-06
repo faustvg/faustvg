@@ -76,7 +76,7 @@ Analyze Mexico's air quality data using Excel and Minitab for forecasting.
 ---
 
 ## 🏆 Others  
-- **hackaTUM** – *Technical University of Munich* (2023 & 2024)
+- **hackaTUM** – *Technical University of Munich* (2023, 2024 & 2025)
 - **AIESEC Team Leader (iGV)** – Jan-July 2022  
 - **Debate Tournament** – *Tec de Monterrey, June 2022*  
 
