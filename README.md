@@ -35,9 +35,9 @@ March 2025 –  August 2025
 
 *Bachelor Thesis - Design and Development of a database for packaging Planning*  
 
-• Designed and implemented a centralized data architecture integrating heterogeneous operational data for industrial packaging planning at Audi.
-• Built automated ETL pipelines using KNIME, Power Automate, and SQL on Oracle Database for schema harmonization, data cleaning, and data-quality constraint enforcement.
-• Developed an Oracle APEX application for process documentation, reducing manual reconciliation and enabling reliable analytics and BI reporting.
+- Designed and implemented a centralized data architecture integrating heterogeneous operational data for industrial packaging planning at Audi.
+- Built automated ETL pipelines using KNIME, Power Automate, and SQL on Oracle Database for schema harmonization, data cleaning, and data-quality constraint enforcement.
+- Developed an Oracle APEX application for process documentation, reducing manual reconciliation and enabling reliable analytics and BI reporting.
 
 --- 
 
