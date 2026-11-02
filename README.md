@@ -18,15 +18,26 @@ Here’s what I use to get things done:
 
 **Tools**:  
 - *Power BI*
-- *Knime*
+- *Fabric*
 - *Jupyter Notebook*  
-- *Microsoft 365(Excel, Word, Access, Power Automate, Power Apps)*  
-- *Google Drive*  
+- *Microsoft 365(Power Automate, Power Apps)*  
+- *Oracle DB*  
 
 ---
 
 ## 💼 Working Experience  
-**Audi AG**  
+**Siemens Mobility- Erlangen**  
+*Working Student *  
+June 2026 –  
+- Controlling Data Analysis
+
+*Bachelor Thesis - Design and Development of a database for packaging Planning*  
+
+- Designed and implemented a centralized data architecture integrating heterogeneous operational data for industrial packaging planning at Audi.
+- Built automated ETL pipelines using KNIME, Power Automate, and SQL on Oracle Database for schema harmonization, data cleaning, and data-quality constraint enforcement.
+- Developed an Oracle APEX application for process documentation, reducing manual reconciliation and enabling reliable analytics and BI reporting.
+
+**Audi AG - Ingolstadt**  
 *Praktikum Digitalisierung Supply Chain International*  
 March 2025 –  August 2025  
 - Development and maintenance of Power BI dashboards for data analysis and decision support.
@@ -85,7 +96,7 @@ Analyze Mexico's air quality data using Excel and Minitab for forecasting.
 ## 🌍 Languages  
 - **Spanish**: Native  
 - **English**: C1 (Fluent)  
-- **German**: C1 (in progress) (B2 Certificated!)
+- **German**: C1 
 
 ---
 
