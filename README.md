@@ -53,9 +53,14 @@ March 2025 –  August 2025
 --- 
 
 ## 🎓 Education  
+
+- **[M.Sc.Internationale Wirtschaftsinformatik](https://www.fau.de/studiengang/international-information-systems-m-sc/)**  
+*FAU Erlangen-Nürnberg*  
+2026–2028 (Expected)
+  
 - **[B.Sc. Data Science](https://www.ku.de/en/mgf/studiengaenge/bachelor/data-science)**  
 *Katholische Universität Eichstätt-Ingolstadt*  
-2022–2026 (Expected)  
+2022–2026   
 
 - **[B.S. Computer Science](https://tec.mx/en/computer-science-and-information-technologies/bs-in-computer-science-and-technology)**    
 *Instituto Tecnológico y de Estudios Superiores de Monterrey*  
