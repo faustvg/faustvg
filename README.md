@@ -27,7 +27,7 @@ Here’s what I use to get things done:
 
 ## 💼 Working Experience  
 **Siemens Mobility- Erlangen**  
-*Working Student *  
+*Working Student*  
 June 2026 –  
 - Controlling Data Analysis
 
